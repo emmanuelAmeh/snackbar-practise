@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">snackbar practise</string>
+    <string name="snack2">Questo é Chocolati di Tuscani</string>
+    <string name="snack1">Questo é Chocolatti</string>
+    <string name="snack_bar">Picnic Bar</string>
+</resources>
